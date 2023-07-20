@@ -65,6 +65,7 @@ namespace Graph
             for(int i = 0; i < buttons.Count; i++)
             {
                 vertices.Add(new Vertex(buttons[i]));
+                buttons[i].Enabled = true;
             }
             List<Edge> edges = get_list_edges(vertices);
             graph = new Graph(vertices, edges);
@@ -92,9 +93,10 @@ namespace Graph
         } 
         private void btn_pressed(Button btn)
         {
-            if(start == null)
+            if (start == null)
             {
                 start = btn;
+                btn.Enabled = false;
                 start.BackColor = Color.DeepPink;
                 return;
             }
@@ -102,8 +104,9 @@ namespace Graph
             {
                 end = btn;
                 end.BackColor = Color.Red;
+                btn.Enabled = false;
             }
-            if(start != null && end != null)
+            if (start != null && end != null)
             {
                 btnSearch.Enabled = true;
             }

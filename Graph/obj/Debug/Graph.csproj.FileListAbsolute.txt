@@ -16,3 +16,14 @@ S:\Программирование\Большие проекты\Графы\М�
 S:\Программирование\Большие проекты\Графы\Мое\Graph\bin\Debug\Graph.exe.config
 S:\Программирование\Большие проекты\Графы\Мое\Graph\bin\Debug\Graph.exe
 S:\Программирование\Большие проекты\Графы\Мое\Graph\bin\Debug\Graph.pdb
+C:\Serg\Программирование\Git\Graph\Graph\bin\Debug\Graph.exe.config
+C:\Serg\Программирование\Git\Graph\Graph\bin\Debug\Graph.exe
+C:\Serg\Программирование\Git\Graph\Graph\bin\Debug\Graph.pdb
+C:\Serg\Программирование\Git\Graph\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache
+C:\Serg\Программирование\Git\Graph\Graph\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+C:\Serg\Программирование\Git\Graph\Graph\obj\Debug\Graph.Form1.resources
+C:\Serg\Программирование\Git\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\Serg\Программирование\Git\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+C:\Serg\Программирование\Git\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Serg\Программирование\Git\Graph\Graph\obj\Debug\Graph.exe
+C:\Serg\Программирование\Git\Graph\Graph\obj\Debug\Graph.pdb
